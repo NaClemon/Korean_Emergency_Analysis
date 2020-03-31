@@ -4,15 +4,54 @@
     <list default="true" id="7f454502-071d-49b5-a099-74f13d909a0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/Visualization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Visualization.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Age-specific_Emer_Count.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Age-specific_Emer_Count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22..py" beforeDir="false" afterPath="$PROJECT_DIR$/22..py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23..py" beforeDir="false" afterPath="$PROJECT_DIR$/23..py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24..py" beforeDir="false" afterPath="$PROJECT_DIR$/24..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Gender-specific.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11. Gyeong-gi_Agency.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12. Distance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13. Corr_Age_Emer_Count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14. Monthly_Activities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15. Relat_Age_Time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16. Arrival_Time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17. Age_Population.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.Parallel_Categories.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Age-specific_Emer_Count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/27..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/29..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Gyeong-gi_Age.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. Gyeong-gi_Embu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Gyeong-gi_Embuworker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Gyeong-gi_Population.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. Gyeong-gi_Emer_Count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. First-aid_Case_Rate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. Rate_Emer_Symptoms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/11-Gyeong-gi_Agency.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/3-Gyeong-gi_Age.html" beforeDir="false" afterPath="$PROJECT_DIR$/Result/3-Gyeong-gi_Age.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/4-Gyeong-gi_Embu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/5-Gyeong-gi_Embuworker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/6-Gyeong-gi_Population.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/7-Gyeong-gi_Emer_Count.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -28,8 +67,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.24.">
-    <configuration name="22." type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.01. Corr_Age_Emer_Count">
+    <configuration name="01. Corr_Age_Emer_Count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Visualization" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22..py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01. Corr_Age_Emer_Count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="23." type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03. Relat_Age_Time" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Visualization" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23..py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. Relat_Age_Time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="24." type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04 Gyeong-gi_Age" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Visualization" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +122,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24..py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 Gyeong-gi_Age.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="30. Emer_Time_Req" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Visualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30. Emer_Time_Req.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Visualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,9 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.24." />
-        <item itemvalue="Python.23." />
-        <item itemvalue="Python.22." />
+        <item itemvalue="Python.01. Corr_Age_Emer_Count" />
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.04 Gyeong-gi_Age" />
+        <item itemvalue="Python.03. Relat_Age_Time" />
+        <item itemvalue="Python.30. Emer_Time_Req" />
       </list>
     </recent_temporary>
   </component>
@@ -126,40 +209,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="258" key="GridCell.Tab.0.bottom" timestamp="1575615355550">
+    <state x="811" y="438" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1575794597781">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1575615355550" />
-    <state width="914" height="258" key="GridCell.Tab.0.center" timestamp="1575615355550">
+    <state x="811" y="438" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1575794597781" />
+    <state width="1877" height="299" key="GridCell.Tab.0.bottom" timestamp="1581523987038">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="258" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1575615355550" />
-    <state width="914" height="258" key="GridCell.Tab.0.left" timestamp="1575615355549">
+    <state width="1877" height="299" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581523987038" />
+    <state width="1877" height="299" key="GridCell.Tab.0.center" timestamp="1581523987038">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="258" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1575615355549" />
-    <state width="914" height="258" key="GridCell.Tab.0.right" timestamp="1575615355550">
+    <state width="1877" height="299" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581523987038" />
+    <state width="1877" height="299" key="GridCell.Tab.0.left" timestamp="1581523987038">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="258" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1575615355550" />
-    <state x="463" y="184" key="SettingsEditor" timestamp="1575507699599">
+    <state width="1877" height="299" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581523987038" />
+    <state width="1877" height="299" key="GridCell.Tab.0.right" timestamp="1581523987038">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="463" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1575507699599" />
+    <state width="1877" height="299" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581523987038" />
+    <state x="463" y="184" key="SettingsEditor" timestamp="1581523778402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="463" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581523778402" />
     <state x="1135" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1575531473721">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1135" y="367" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1575531473721" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/20..py</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="1246" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575644495954">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1246" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1575644495954" />
   </component>
 </project>
